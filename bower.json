@@ -1,0 +1,17 @@
+{
+  "name": "angulartest1",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "shashidhar-gr <shashidhargr26@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
