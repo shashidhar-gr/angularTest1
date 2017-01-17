@@ -25,6 +25,6 @@ app.get('*', function(req, res) {
 	res.sendFile(path.join(__dirname + '/app/index.html'));
 });
 
-app.listen(3000, function() {
+app.listen(8080, function() {
 	console.log("express app listening on port 3000.");
 })
