@@ -4,8 +4,6 @@ var morgan = require('morgan');
 var path = require('path');
 var app = express();
 
-console.log(path);
-
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
